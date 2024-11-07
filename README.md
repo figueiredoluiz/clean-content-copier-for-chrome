@@ -18,7 +18,7 @@ Clean Content Copier is a Chrome extension designed to streamline the process of
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/clean-content-copier.git
+   git clone https://github.com/figueiredoluiz/clean-content-copier-for-chrome.git
    ```
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable "Developer mode" using the toggle at the top right.
